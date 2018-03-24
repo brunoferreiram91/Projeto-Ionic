@@ -1,5 +1,5 @@
 # Projeto Ionic App
 
-![..\log-dir.jpeg]
+![./log-dir.jpeg](Ionic)
 
-Projeto de uma pequena e simples aplicação para apresentação na faculdade
+Projeto de uma pequena e simples aplicação para apresentação na faculdad
